@@ -51,6 +51,13 @@ This software is inspired by another described [here](http://blog.martinperis.co
 
 * accept image drops for left and right image areas
 
+### Run
+```
+qmake BMTuner.pro
+make
+./StereoCorrespondenceBMTuner
+```
+
 
 Licence
 -------
